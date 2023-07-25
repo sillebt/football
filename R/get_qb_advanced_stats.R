@@ -13,10 +13,6 @@
 #' szn = 2022
 #' stats <- get_combined_qb_stats(szn)
 get_combined_qb_stats <- function(szn) {
-<<<<<<< HEAD
-=======
-  setwd("~/Desktop/nfl_plots")
->>>>>>> 69e67c13cb630b540c3442b8e32ef642c64e5b7b
 
   # Load team information
   team_info <- load_teams() %>%
