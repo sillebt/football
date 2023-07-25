@@ -12,7 +12,7 @@
 #'
 #' @examples
 #' year <- 2022
-#' qbr <- get_weekly_qbr(year)
+#' weekly_qbr_data <- get_weekly_qbr(year)
 get_weekly_qbr <- function(year) {
 
   # Determine the number of weeks in the regular season based on the input year
@@ -59,6 +59,7 @@ get_weekly_qbr <- function(year) {
 
   return(espn_qbr)
 }
+
 
 
 #' Plot QBR Data
@@ -156,7 +157,6 @@ plot_weekly_qbr <- function(year, QB, all_qbr_file) {
       legend.title = element_text(size = 8, hjust = 0, vjust = 0.5, face = "bold"),
       legend.position = "top",
       aspect.ratio = 1 / 1.618
-    ) +
-    NULL
+    )
 }
 
