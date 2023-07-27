@@ -1,0 +1,513 @@
+"","quarterback","week","opp","epa","pts_added","qbr","rating","attempts","completions","cpoe","passing_yards","passing_tds","interceptions","sacks","avg_tt"
+"1","Patrick Mahomes",1,"Arizona Cardinals",33.2,8.1,94.1,144.2,39,30,8.9,360,5,0,0,2.555
+"2","Josh Allen",1,"Los Angeles Rams",13.6,6.5,91.2,112,31,26,12.3,297,3,2,2,2.474
+"3","Justin Herbert",1,"Las Vegas Raiders",14.9,5,84.8,129.4,34,26,9.87,279,3,0,0,3.037
+"4","Kirk Cousins",1,"Green Bay Packers",9.3,4,80.7,118.9,32,23,6.62,277,2,0,1,2.96
+"5","Tua Tagovailoa",1,"New England Patriots",5.9,3.6,78.3,104.4,33,23,2.91,270,1,0,3,2.917
+"6","Lamar Jackson",1,"New York Jets",4.2,1.9,68.2,98.3,30,17,-3.84,213,3,1,2,3.008
+"7","Ryan Tannehill",1,"New York Giants",7.8,2.3,65.3,106.4,33,20,-2.55,266,2,0,1,2.764
+"8","Jalen Hurts",1,"Detroit Lions",3.6,2.4,64.3,80.6,32,18,-9.37,243,0,0,1,2.752
+"9","Marcus Mariota",1,"New Orleans Saints",5,1.3,57.9,79.7,33,20,-4.5,215,0,0,0,2.96
+"10","Tom Brady",1,"Dallas Cowboys",1.1,-0.4,53.4,87.3,27,18,3.46,212,1,1,2,2.497
+"11","Jameis Winston",1,"Atlanta Falcons",1.2,0.6,53.3,NA,34,23,NA,269,2,0,4,NA
+"12","Kyler Murray",1,"Kansas City Chiefs",0.2,1.1,52.9,99.3,34,22,0.83,193,2,0,2,2.803
+"13","Jared Goff",1,"Philadelphia Eagles",-2.1,0.6,49.7,80.3,37,21,-10.62,215,2,1,1,2.469
+"14","Trevor Lawrence",1,"Washington Commanders",0.1,-0.3,48.4,75,42,24,1.35,275,1,1,2,2.882
+"15","Matt Ryan",1,"Houston Texans",3,-0.7,48.2,83.1,50,32,-7.51,352,1,1,2,2.76
+"16","Mitch Trubisky",1,"Cincinnati Bengals",NA,-0.8,48,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"17","Davis Mills",1,"Indianapolis Colts",-6.5,-0.1,46.3,98.9,37,23,-7.17,240,2,0,3,2.555
+"18","Carson Wentz",1,"Jacksonville Jaguars",NA,0.5,46.3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"19","Trey Lance",1,"Chicago Bears",-9.1,-1.6,43.1,NA,28,13,NA,164,0,1,2,NA
+"20","Justin Fields",1,"San Francisco 49ers",-1.7,-0.4,42.1,85.7,17,8,-16.81,121,2,1,2,3.275
+"21","Joe Burrow",1,"Pittsburgh Steelers",-17.2,-1.4,42.1,61.7,53,33,-2.37,338,2,4,7,2.7
+"22","Jacoby Brissett",1,"Carolina Panthers",-7.3,-1.9,38.1,74,34,18,-1.71,147,1,0,1,2.974
+"23","Baker Mayfield",1,"Cleveland Browns",-1.6,-1,37.2,NA,27,16,NA,235,1,1,4,NA
+"24","Derek Carr",1,"Los Angeles Chargers",-4.5,-3.3,26.9,69.1,37,22,2.22,295,2,3,5,2.76
+"25","Daniel Jones",1,"Tennessee Titans",-7.9,-3.3,25.8,115.9,21,17,9.89,188,2,1,5,2.978
+"26","Matthew Stafford",1,"Buffalo Bills",NA,-4.5,23.6,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"27","Aaron Rodgers",1,"Minnesota Vikings",-11.6,-5,16.1,67.6,34,22,-0.6,195,0,1,4,2.571
+"28","Joe Flacco",1,"Baltimore Ravens",-7.1,-7,15.4,NA,59,37,NA,309,1,1,3,NA
+"29","Dak Prescott",1,"Tampa Bay Buccaneers",-12.5,-4,15.3,47.2,29,14,-16.39,134,0,1,2,2.721
+"30","Mac Jones",1,"Miami Dolphins",-4.5,-5.9,9.7,87.2,30,21,0.32,213,1,1,2,2.521
+"31","Trevor Lawrence",2,"Indianapolis Colts",17.6,7.9,95.3,121.5,30,25,8.59,235,2,0,0,2.632
+"32","Tua Tagovailoa",2,"Baltimore Ravens",26.9,7.5,90,124.1,50,36,2.43,469,6,2,1,2.612
+"33","Josh Allen",2,"Tennessee Titans",16.2,6.9,87.7,128.9,38,26,-2.11,317,4,0,1,2.595
+"34","Lamar Jackson",2,"Miami Dolphins",17.8,5.7,86,142.6,29,21,4.62,318,3,0,0,2.685
+"35","Matthew Stafford",2,"Atlanta Falcons",NA,5.4,79.2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36","Jalen Hurts",2,"Minnesota Vikings",11.9,4.9,78.3,108.7,31,26,15.37,333,1,1,3,2.964
+"37","Cooper Rush",2,"Cincinnati Bengals",8.3,4,78.1,NA,31,19,NA,235,1,0,1,NA
+"38","Jacoby Brissett",2,"New York Jets",13.9,4.4,77,98.9,27,22,10.53,229,1,1,1,2.81
+"39","Kyler Murray",2,"Las Vegas Raiders",-8.9,4.1,66.8,76.7,49,31,-4.69,277,1,1,1,2.632
+"40","Patrick Mahomes",2,"Los Angeles Chargers",4.8,2.1,65.7,106.2,35,24,-0.29,235,2,0,1,2.718
+"41","Joe Flacco",2,"Cleveland Browns",12.3,1.6,65.1,NA,44,26,NA,307,4,0,2,NA
+"42","Justin Herbert",2,"Kansas City Chiefs",-0.9,1.4,62.7,100.5,48,33,2.48,334,3,1,2,2.753
+"43","Marcus Mariota",2,"Los Angeles Rams",-2.7,1.9,60.9,81.6,26,17,4.59,196,2,2,3,2.912
+"44","Aaron Rodgers",2,"Chicago Bears",11.5,1.5,60.8,131.1,25,19,5.96,234,2,0,3,2.571
+"45","Jimmy Garoppolo",2,"Seattle Seahawks",2.2,1.3,60.4,100.1,21,13,-6.65,154,1,0,1,2.418
+"46","Mac Jones",2,"Pittsburgh Steelers",5.2,0.1,56.5,79.7,35,21,-5.82,252,1,1,0,2.749
+"47","Jared Goff",2,"Washington Commanders",1.2,1.1,53.8,121.7,34,20,-5.22,256,4,0,3,2.695
+"48","Derek Carr",2,"Arizona Cardinals",4.6,1.8,53.5,99.5,39,25,-5.19,252,2,0,1,2.397
+"49","Carson Wentz",2,"Detroit Lions",NA,0.6,53.5,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"50","Geno Smith",2,"San Francisco 49ers",-7.9,-0.7,51.4,80.1,30,24,6.88,197,0,1,2,2.883
+"51","Joe Burrow",2,"Dallas Cowboys",-0.1,-0.8,48.4,89.9,36,24,-4.77,199,1,0,6,2.394
+"52","Russell Wilson",2,"Houston Texans",0.3,-0.5,45.6,66.5,31,14,-12.18,219,1,1,3,2.763
+"53","Daniel Jones",2,"Carolina Panthers",-2.7,-1.9,37.1,87.4,34,22,0.48,176,1,0,3,3.176
+"54","Mitch Trubisky",2,"New England Patriots",NA,-1.5,35.3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"55","Tom Brady",2,"New Orleans Saints",2.4,-3,30.9,79.3,34,18,-12.49,190,1,0,1,2.54
+"56","Davis Mills",2,"Denver Broncos",-11.5,-4.9,19.9,63.2,38,19,-12.47,177,0,0,3,2.567
+"57","Kirk Cousins",2,"Philadelphia Eagles",-14,-6.8,17.5,51.1,46,27,-9.6,221,1,3,2,2.776
+"58","Ryan Tannehill",2,"Buffalo Bills",-11.5,-3.9,16.3,32.7,20,11,-8.48,117,0,2,2,2.687
+"59","Baker Mayfield",2,"New York Giants",-7.7,-5.4,15.9,NA,29,14,NA,145,1,0,2,NA
+"60","Jameis Winston",2,"Tampa Bay Buccaneers",-16.2,-8.4,13.7,NA,40,25,NA,236,1,3,6,NA
+"61","Justin Fields",2,"Green Bay Packers",-6.4,-4.5,6.7,NA,11,7,NA,70,0,1,3,NA
+"62","Matt Ryan",2,"Jacksonville Jaguars",-20.3,-7.7,6.2,34,30,16,-4.8,195,0,3,5,3.076
+"63","Jalen Hurts",3,"Washington Commanders",15.4,6.1,85.8,123.5,35,22,5.81,340,3,0,3,2.814
+"64","Lamar Jackson",3,"New England Patriots",7.2,5.4,84.1,110.3,29,18,-0.95,218,4,1,4,3.368
+"65","Tua Tagovailoa",3,"Buffalo Bills",8.7,2,78.9,123.8,18,13,3.33,186,1,0,1,2.492
+"66","Jared Goff",3,"Minnesota Vikings",7.6,3.3,73.1,79,41,25,-0.55,277,1,1,0,3.089
+"67","Aaron Rodgers",3,"Tampa Bay Buccaneers",4.5,0.7,71.9,103.9,35,27,6.46,255,2,1,1,2.44
+"68","Trevor Lawrence",3,"Los Angeles Chargers",13.7,2.6,71.8,115.5,39,28,1.25,262,3,0,0,2.394
+"69","Jacoby Brissett",3,"Pittsburgh Steelers",1.5,2.6,69.3,109.6,31,21,-6.95,220,2,0,2,2.611
+"70","Cooper Rush",3,"New York Giants",3.4,1.5,68.5,NA,31,21,NA,215,1,0,0,NA
+"71","Patrick Mahomes",3,"Indianapolis Colts",6.7,2.6,64.9,78.5,35,20,-3.26,262,1,1,1,3.195
+"72","Derek Carr",3,"Tennessee Titans",6.3,2.2,63.9,85.7,44,26,4.05,303,2,1,1,2.883
+"73","Josh Allen",3,"Miami Dolphins",6.2,2.3,60.4,94.7,63,42,2.08,400,2,0,4,2.875
+"74","Jameis Winston",3,"Carolina Panthers",7.9,0.2,58.1,NA,41,25,NA,353,1,2,1,NA
+"75","Joe Burrow",3,"New York Jets",16.4,1.9,57.9,114.9,36,23,0.78,275,3,0,2,2.88
+"76","Matt Ryan",3,"Kansas City Chiefs",-4,1.7,57.5,105.9,37,27,6.48,222,2,0,5,2.519
+"77","Mitch Trubisky",3,"Cleveland Browns",NA,0.4,56.6,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"78","Matthew Stafford",3,"Arizona Cardinals",NA,0.9,56.4,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"79","Tom Brady",3,"Green Bay Packers",1.1,1.7,55.7,98.4,42,31,2.96,271,1,0,3,2.223
+"80","Geno Smith",3,"Atlanta Falcons",11.9,3.2,55.4,99.1,44,32,9.28,325,2,1,2,2.716
+"81","Mac Jones",3,"Baltimore Ravens",0.9,0.6,51.3,62.1,32,22,10.23,321,0,3,3,2.936
+"82","Ryan Tannehill",3,"Las Vegas Raiders",12.2,1.4,51.1,98.4,27,19,-0.88,264,1,1,1,2.688
+"83","Kirk Cousins",3,"Detroit Lions",-1.4,-0.3,41.6,93.5,41,24,-4.01,260,2,0,1,3.088
+"84","Daniel Jones",3,"Dallas Cowboys",-11.7,-1.1,41.6,57.9,37,20,-6.05,196,0,1,5,3.159
+"85","Justin Herbert",3,"Jacksonville Jaguars",-9.1,-1.6,39.5,74,45,25,-4.62,297,1,1,1,2.963
+"86","Marcus Mariota",3,"Seattle Seahawks",14.9,-1.6,35.7,99.8,20,13,14.24,229,1,1,3,3.171
+"87","Russell Wilson",3,"San Francisco 49ers",-10.8,-3,32.9,75.8,33,20,-10.31,184,0,0,4,2.766
+"88","Kyler Murray",3,"Los Angeles Rams",-4.8,-2.3,32.8,77.8,58,37,-8.21,314,0,0,2,2.433
+"89","Davis Mills",3,"Chicago Bears",-5.7,-4.2,19.5,70.4,32,20,-3.87,245,1,2,1,2.7
+"90","Justin Fields",3,"Houston Texans",-7.7,-3.3,19.4,27.7,17,8,-23.41,106,0,2,5,2.738
+"91","Joe Flacco",3,"Cincinnati Bengals",-23.4,-6.9,15.5,NA,52,28,NA,285,0,2,4,NA
+"92","Jimmy Garoppolo",3,"Denver Broncos",-5.7,-5.6,14.2,81.2,29,18,-4.32,211,1,1,4,2.612
+"93","Carson Wentz",3,"Philadelphia Eagles",NA,-10,11.4,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"94","Baker Mayfield",3,"New Orleans Saints",-4.8,-4.3,11.3,NA,25,12,NA,170,1,0,3,NA
+"95","Daniel Jones",4,"Chicago Bears",-2,4,92.3,NA,13,8,NA,71,0,0,1,NA
+"96","Geno Smith",4,"Detroit Lions",21,7.9,91.3,132.6,30,23,13.27,320,2,0,0,2.974
+"97","Justin Herbert",4,"Houston Texans",16.7,6.3,90.5,113.2,39,27,2.37,340,2,0,1,3.059
+"98","Patrick Mahomes",4,"Tampa Bay Buccaneers",8.6,5.8,90.4,97.7,37,23,-0.66,249,3,1,3,2.75
+"99","Teddy Bridgewater",4,"Cincinnati Bengals",-0.7,2.2,79.9,NA,23,14,NA,193,1,1,0,NA
+"100","Cooper Rush",4,"Washington Commanders",1.6,3.8,74.9,NA,27,15,NA,223,2,0,1,NA
+"101","Jared Goff",4,"Seattle Seahawks",13.7,4.3,74.8,121.5,39,26,4.24,378,4,1,1,2.719
+"102","Tom Brady",4,"Kansas City Chiefs",9.5,4.9,73.9,114.7,52,39,3.79,385,3,0,1,2.372
+"103","Josh Allen",4,"Baltimore Ravens",2.1,3.4,71.8,68.4,36,19,-12.28,213,1,1,1,2.696
+"104","Derek Carr",4,"Denver Broncos",-3.3,1.2,61.5,76.6,34,21,1.93,188,0,0,2,2.52
+"105","Andy Dalton",4,"Minnesota Vikings",6.5,1.6,60,108.6,28,20,10.89,236,1,0,2,2.687
+"106","Jacoby Brissett",4,"Atlanta Falcons",-1,1.9,53.8,68,35,21,-4.04,234,0,1,1,3.245
+"107","Zach Wilson",4,"Pittsburgh Steelers",1.2,0.2,53.2,59,36,18,-11.89,252,1,2,1,3.518
+"108","Joe Burrow",4,"Miami Dolphins",13.2,0.9,51.8,115.9,31,20,-0.02,287,2,0,1,2.493
+"109","Russell Wilson",4,"Las Vegas Raiders",-1,0.9,50.6,124.9,25,17,-0.55,237,2,0,3,2.807
+"110","Lamar Jackson",4,"Buffalo Bills",-9.2,-1,47.7,63,29,20,-1.11,144,1,2,2,2.971
+"111","Ryan Tannehill",4,"Indianapolis Colts",-0.3,0.2,47.7,125.6,21,17,5.12,137,2,0,3,2.78
+"112","Jimmy Garoppolo",4,"Los Angeles Rams",10.7,0.3,47.4,100.7,27,16,-8.31,239,1,0,0,2.436
+"113","Kirk Cousins",4,"New Orleans Saints",-1.5,-1.3,47.1,84.6,38,25,0.18,273,1,1,3,2.74
+"114","Kyler Murray",4,"Carolina Panthers",-0.6,-1.6,45.9,96.7,32,23,4.48,207,2,1,1,2.733
+"115","Matthew Stafford",4,"San Francisco 49ers",NA,-3.8,42.2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"116","Matt Ryan",4,"Tennessee Titans",8.8,-0.7,39.7,109.7,37,27,5.02,356,2,1,3,2.83
+"117","Aaron Rodgers",4,"New England Patriots",0.4,-0.3,38.2,89.1,35,21,-0.64,251,2,1,1,2.354
+"118","Davis Mills",4,"Los Angeles Chargers",-8.7,-1.4,37.8,88.5,35,26,6.46,246,2,2,4,2.828
+"119","Justin Fields",4,"New York Giants",-5.7,-2.1,35.1,76.7,22,11,-6.93,174,0,0,6,3.235
+"120","Marcus Mariota",4,"Cleveland Browns",-5.1,-1.5,26.4,41.3,19,7,-14.33,139,0,1,1,3.821
+"121","Jalen Hurts",4,"Jacksonville Jaguars",-11.1,-3.8,26.2,72.8,25,16,-2.83,204,0,1,2,2.639
+"122","Carson Wentz",4,"Dallas Cowboys",NA,-5.6,23.2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"123","Bailey Zappe",4,"Green Bay Packers",-4.8,-2.6,15.9,NA,15,10,NA,99,1,0,3,NA
+"124","Trevor Lawrence",4,"Philadelphia Eagles",-8.9,-5.7,12.9,84.3,23,11,-21.06,174,2,1,4,2.52
+"125","Baker Mayfield",4,"Arizona Cardinals",-12.4,-7,7.4,NA,36,22,NA,197,1,2,2,NA
+"126","Josh Allen",5,"Pittsburgh Steelers",24.9,5.6,86.2,134.1,31,20,1.04,424,4,1,0,2.547
+"127","Jacoby Brissett",5,"Los Angeles Chargers",7,4.4,80.9,79.3,34,21,1.5,230,1,1,0,2.9
+"128","Kirk Cousins",5,"Chicago Bears",10.9,5.4,77.7,94.7,41,32,3.36,296,1,1,1,2.749
+"129","Justin Fields",5,"Minnesota Vikings",8.4,3.6,76.6,118.8,21,15,-2.02,208,1,0,2,2.865
+"130","Geno Smith",5,"New Orleans Saints",8.8,2.3,75.4,139.7,25,16,6.98,268,3,0,3,2.942
+"131","Daniel Jones",5,"Green Bay Packers",13.4,3.6,75.4,100.2,27,21,5.41,217,0,0,1,2.623
+"132","Kyler Murray",5,"Philadelphia Eagles",6.1,1.3,68.2,80.5,42,28,2.72,250,1,1,1,2.682
+"133","Derek Carr",5,"Kansas City Chiefs",6.8,1.7,66.2,110.6,30,19,4.23,241,2,0,2,3.172
+"134","Patrick Mahomes",5,"Las Vegas Raiders",14.8,4.1,61.1,117.6,43,29,-1.83,292,4,0,3,2.624
+"135","Jimmy Garoppolo",5,"Carolina Panthers",18.3,0.3,60.5,109.4,30,18,-5.91,253,2,0,2,2.572
+"136","Marcus Mariota",5,"Tampa Bay Buccaneers",-2.5,-0.1,59.1,86.6,25,14,-9.48,147,1,0,5,2.551
+"137","Kenny Pickett",5,"Buffalo Bills",-2.2,-1.1,56.8,74.8,52,34,-3.48,327,0,1,3,2.809
+"138","Zach Wilson",5,"Miami Dolphins",0.9,1.1,56.3,99.3,21,14,0.88,210,0,0,2,2.715
+"139","Aaron Rodgers",5,"New York Giants",2.8,0.2,53.4,96.3,39,25,-7.61,222,2,0,2,2.324
+"140","Jalen Hurts",5,"Arizona Cardinals",3.8,-0.1,52.6,89.9,36,26,3.86,239,0,0,2,2.688
+"141","Andy Dalton",5,"Seattle Seahawks",0,1.2,50.1,86.6,24,16,1.43,187,1,1,1,2.716
+"142","Davis Mills",5,"Jacksonville Jaguars",-2.5,-1,49.3,81.9,24,16,-5.38,140,0,0,1,2.354
+"143","Tom Brady",5,"Atlanta Falcons",13,2.2,46.3,92.7,52,35,-3.39,351,1,0,0,2.412
+"144","Carson Wentz",5,"Tennessee Titans",NA,0.3,46.3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"145","Justin Herbert",5,"Cleveland Browns",4.4,-1.7,40.8,93.8,34,22,-2.66,228,1,0,1,2.6
+"146","Matthew Stafford",5,"Dallas Cowboys",NA,-2.2,38.6,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"147","Trevor Lawrence",5,"Houston Texans",-7.8,-3.1,32.1,54,47,25,-14.9,286,0,2,0,2.886
+"148","Joe Burrow",5,"Baltimore Ravens",-4.3,-2.8,30.8,82.7,35,24,-2.39,217,1,1,2,2.518
+"149","Skylar Thompson",5,"New York Jets",-16.3,-2.5,29.4,NA,33,19,NA,166,0,1,2,NA
+"150","Lamar Jackson",5,"Cincinnati Bengals",-5.7,-3.4,27.8,71.6,32,19,1.51,174,1,1,1,3.189
+"151","Baker Mayfield",5,"San Francisco 49ers",-10.8,-4.5,25.5,NA,36,20,NA,215,0,1,4,NA
+"152","Bailey Zappe",5,"Detroit Lions",6.6,-1.3,24.6,NA,21,17,NA,188,1,1,0,NA
+"153","Matt Ryan",5,"Denver Broncos",-11.3,-7.4,20.3,60.1,41,26,1.7,251,0,2,6,2.871
+"154","Ryan Tannehill",5,"Washington Commanders",-0.6,-4,17.9,95.6,25,15,6.12,181,1,0,5,2.887
+"155","Cooper Rush",5,"Los Angeles Rams",-6.7,-2.4,16.7,NA,16,10,NA,102,0,0,3,NA
+"156","Russell Wilson",5,"Indianapolis Colts",-13,-5.1,16,54.9,39,21,-11.59,274,0,2,4,2.714
+"157","Jared Goff",5,"New England Patriots",-20.7,-7.6,6.6,62.7,35,19,-3.49,229,0,1,2,3.079
+"158","Marcus Mariota",6,"San Francisco 49ers",5.2,5.1,95.8,NA,14,13,NA,129,2,0,2,NA
+"159","Matt Ryan",6,"Jacksonville Jaguars",17.7,7.5,81.9,107.6,58,42,4.52,389,3,0,0,2.596
+"160","Joe Burrow",6,"New Orleans Saints",10.7,3.9,78.5,126,37,28,9.31,300,3,0,3,2.514
+"161","Daniel Jones",6,"Baltimore Ravens",10.2,2.6,68,112.1,27,19,7.72,173,2,0,4,2.754
+"162","Jalen Hurts",6,"Dallas Cowboys",3.2,1.4,64.9,104.6,25,15,-5.66,155,2,0,4,2.704
+"163","Trevor Lawrence",6,"Indianapolis Colts",1.6,1.3,63.3,113.1,22,20,9.92,165,1,0,4,2.189
+"164","Josh Allen",6,"Kansas City Chiefs",11.2,2,60.4,117.6,40,27,1.29,329,3,0,1,2.736
+"165","Lamar Jackson",6,"New York Giants",-1.6,0.7,58.4,71.1,32,17,-9.84,210,1,1,2,2.903
+"166","Tom Brady",6,"Pittsburgh Steelers",8.7,1.2,58.2,87.8,40,25,0.58,243,1,0,2,2.549
+"167","Bailey Zappe",6,"Cleveland Browns",8.4,0.2,56.4,NA,34,24,NA,309,2,0,2,NA
+"168","Patrick Mahomes",6,"Buffalo Bills",4.4,-0.1,54.4,85.2,40,25,0.45,338,2,2,3,3.103
+"169","Justin Herbert",6,"Denver Broncos",-15.7,-1.6,49.5,66.3,57,37,-0.84,238,0,1,2,2.791
+"170","Kirk Cousins",6,"Miami Dolphins",-5.5,0,49,104.2,30,20,3.77,175,2,0,3,2.707
+"171","Matthew Stafford",6,"Carolina Panthers",NA,-0.6,45.9,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"172","Geno Smith",6,"Arizona Cardinals",-6.3,-0.8,40.4,82.3,31,20,-1.48,197,0,0,5,2.46
+"173","Teddy Bridgewater",6,"Minnesota Vikings",3.8,-0.1,38.7,NA,34,23,NA,329,2,2,5,NA
+"174","Jimmy Garoppolo",6,"Atlanta Falcons",3.6,-0.7,36.2,87,41,29,-1.4,296,2,2,0,2.869
+"175","Russell Wilson",6,"Los Angeles Chargers",-6.8,-1.9,34.7,86.6,28,15,-3.48,188,1,0,4,3.06
+"176","Cooper Rush",6,"Philadelphia Eagles",-8.4,-3.9,32.2,NA,38,18,NA,181,1,3,0,NA
+"177","Zach Wilson",6,"Green Bay Packers",-3.8,-1.1,30.8,73.8,18,10,-9.83,110,0,0,2,3.14
+"178","Andy Dalton",6,"Cincinnati Bengals",3.3,-2.5,29.2,77.9,32,17,-3.71,162,1,0,1,2.796
+"179","Justin Fields",6,"Washington Commanders",-14.4,-2.5,28.1,71.5,27,14,-11.53,190,1,1,5,2.923
+"180","Carson Wentz",6,"Chicago Bears",NA,-2.9,22.3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"181","Kyler Murray",6,"Seattle Seahawks",-11.7,-4.6,21.8,67.6,37,23,-2.9,222,0,1,6,2.71
+"182","Kenny Pickett",6,"Tampa Bay Buccaneers",-2.7,-2.2,21.7,87,18,11,8.09,67,1,0,1,2.675
+"183","Jacoby Brissett",6,"New England Patriots",-10.7,-5.4,18.5,54.5,45,21,-7.36,266,1,2,4,2.821
+"184","Aaron Rodgers",6,"New York Jets",-13.3,-5.4,16.9,88.1,41,26,-3.92,246,1,0,4,2.756
+"185","Patrick Mahomes",7,"San Francisco 49ers",29.8,4.9,90.1,132.4,34,25,7.27,423,3,1,1,2.594
+"186","Daniel Jones",7,"Jacksonville Jaguars",1.8,6.9,87.1,94,30,19,-0.46,202,1,0,1,2.855
+"187","Derek Carr",7,"Houston Texans",12.2,4.1,84.5,116.2,27,21,9.12,241,1,0,1,3.198
+"188","Joe Burrow",7,"Atlanta Falcons",27,7.9,82,138.2,42,34,12.18,481,3,0,3,2.402
+"189","PJ Walker",7,"Tampa Bay Buccaneers",NA,1.6,73.9,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"190","Davis Mills",7,"Las Vegas Raiders",3.1,3.7,68.1,95.8,41,28,-3.19,302,2,1,1,2.549
+"191","Kyler Murray",7,"New Orleans Saints",1.8,2.1,60.2,100.4,29,20,-2.68,204,1,0,2,2.345
+"192","Geno Smith",7,"Los Angeles Chargers",4.6,0.9,59.7,105.5,27,20,11.69,210,2,1,2,2.767
+"193","Andy Dalton",7,"Arizona Cardinals",-1.3,0.5,58.2,89.1,47,30,-1.28,361,4,3,0,2.558
+"194","Justin Fields",7,"New England Patriots",2.4,0.4,57.4,85.2,21,13,-5.23,179,1,1,4,3.169
+"195","Tom Brady",7,"Carolina Panthers",-2.4,-0.3,55.8,81.2,49,32,-4.45,290,0,0,1,2.49
+"196","Marcus Mariota",7,"Cincinnati Bengals",1.1,-0.3,55,NA,13,8,NA,124,1,0,3,NA
+"197","Dak Prescott",7,"Detroit Lions",9.7,1.7,55,113.2,25,19,10.55,207,1,0,2,2.84
+"198","Jacoby Brissett",7,"Baltimore Ravens",0.5,0.4,54.1,106.5,27,22,13.63,258,0,0,5,2.783
+"199","Aaron Rodgers",7,"Washington Commanders",-2.8,-0.5,48.9,99,35,23,-5.13,194,2,0,0,2.345
+"200","Zach Wilson",7,"Denver Broncos",-10.7,-1.6,48.7,72.8,26,16,-7.8,121,0,0,3,3.023
+"201","Lamar Jackson",7,"Cleveland Browns",-4.3,-0.1,47,80.2,16,9,-9.69,120,0,0,3,2.776
+"202","Kenny Pickett",7,"Miami Dolphins",-5.8,-0.6,44.9,66.2,44,32,2.35,257,1,3,2,2.721
+"203","Tua Tagovailoa",7,"Pittsburgh Steelers",5.6,-0.2,41.7,92.7,35,21,-6.77,261,1,0,0,2.382
+"204","Ryan Tannehill",7,"Indianapolis Colts",3.5,-0.3,41.6,83.8,20,13,9.28,132,0,0,2,2.992
+"205","Trevor Lawrence",7,"New York Giants",11.3,-0.9,41.5,74.8,43,22,-7.31,310,0,0,0,2.701
+"206","Taylor Heinicke",7,"Green Bay Packers",NA,-0.3,39.9,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"207","Jimmy Garoppolo",7,"Kansas City Chiefs",2.4,-0.4,39.7,99.3,37,25,-3.48,303,2,1,5,2.414
+"208","Bailey Zappe",7,"Chicago Bears",-2.5,-0.7,36.6,NA,22,14,NA,185,1,2,1,NA
+"209","Brett Rypien",7,"New York Jets",-12.8,-3,32.7,NA,46,24,NA,225,0,1,1,NA
+"210","Matt Ryan",7,"Tennessee Titans",-9.1,-3.3,31.3,76.2,44,33,7.09,243,1,2,3,2.719
+"211","Justin Herbert",7,"Seattle Seahawks",-10.4,-3.3,26.8,84.8,51,33,2.03,293,2,1,3,2.929
+"212","Jared Goff",7,"Dallas Cowboys",-6.6,-4.6,20.4,71.2,26,21,10.05,228,0,2,5,2.576
+"213","Dak Prescott",8,"Chicago Bears",14.7,7.1,93.8,114.5,27,21,11,250,2,1,1,2.463
+"214","Tua Tagovailoa",8,"Detroit Lions",25.1,9,92.8,138.7,36,29,15,382,3,0,2,2.479
+"215","Josh Allen",8,"Green Bay Packers",0.6,4.9,83.5,75.1,25,13,-8.72,218,2,2,2,3.192
+"216","Jacoby Brissett",8,"Cincinnati Bengals",13.9,2.6,81.3,133.7,22,17,18.23,278,1,0,2,3.237
+"217","Jimmy Garoppolo",8,"Los Angeles Rams",14.5,3,81.1,132.5,25,21,9.25,235,2,0,3,2.688
+"218","Jalen Hurts",8,"Pittsburgh Steelers",15.6,4.3,80,140.6,28,19,5.84,285,4,0,3,2.684
+"219","Marcus Mariota",8,"Carolina Panthers",6.2,3.1,75.4,105.2,28,20,3.53,253,3,2,2,2.928
+"220","Justin Fields",8,"Dallas Cowboys",-3,1.5,72.4,120,23,17,9.88,151,2,0,4,3.133
+"221","Andy Dalton",8,"Las Vegas Raiders",9.9,3.9,72.3,117.2,30,22,3.28,229,2,0,0,2.601
+"222","Sam Ehlinger",8,"Washington Commanders",1.2,2.1,66.9,NA,23,17,NA,201,0,0,2,NA
+"223","Matthew Stafford",8,"San Francisco 49ers",NA,1.8,65.6,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"224","Geno Smith",8,"New York Giants",3,2.2,65.1,104,34,23,-0.47,212,2,0,3,2.629
+"225","Jared Goff",8,"Miami Dolphins",8.7,2.7,62.8,108.1,37,27,-0.83,321,1,0,1,2.617
+"226","Lamar Jackson",8,"Tampa Bay Buccaneers",0.9,0.8,61.9,104.9,38,27,5.48,238,2,0,3,2.77
+"227","Taylor Heinicke",8,"Indianapolis Colts",NA,0.5,55.3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"228","Kirk Cousins",8,"Arizona Cardinals",-3.2,0.3,50.3,103,36,24,7.81,232,2,0,3,2.779
+"229","Kyler Murray",8,"Minnesota Vikings",-1.2,-0.2,45.5,95.5,44,31,2.28,326,3,2,4,2.5
+"230","Russell Wilson",8,"Jacksonville Jaguars",2.7,-0.9,36.7,84.3,30,18,0.09,252,1,1,3,2.87
+"231","Mac Jones",8,"New York Jets",-7,-3.4,34.6,79.9,35,24,0.67,194,1,1,6,2.523
+"232","Kenny Pickett",8,"Philadelphia Eagles",-15.7,-5.9,32.6,66.9,38,25,0.49,191,0,1,6,2.596
+"233","PJ Walker",8,"Atlanta Falcons",NA,-1.6,29.5,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"234","Tom Brady",8,"Baltimore Ravens",4.9,-3.1,27,89.7,44,26,-7.04,325,1,0,3,2.374
+"235","Daniel Jones",8,"Seattle Seahawks",0.1,-4.2,24.1,71.4,31,17,-8.28,176,0,0,5,3.336
+"236","Zach Wilson",8,"New England Patriots",-2.3,-3.9,24,64.6,41,20,-7.16,355,2,3,2,3.51
+"237","Aaron Rodgers",8,"Buffalo Bills",-1.4,-4.8,20.4,91.4,30,19,-2.98,203,2,1,2,2.834
+"238","Joe Burrow",8,"Cleveland Browns",-9.2,-5.7,17.6,96.4,35,25,-2.16,232,2,1,5,2.611
+"239","Derek Carr",8,"New Orleans Saints",-11.9,-4.2,14,50.3,26,15,-3.79,101,0,1,3,2.997
+"240","Trevor Lawrence",8,"Denver Broncos",-13.9,-7,13.9,52.2,31,18,-8.39,133,1,2,2,2.631
+"241","Davis Mills",8,"Tennessee Titans",-12.1,-6.4,7.1,69.9,29,17,-5.75,152,1,1,3,2.929
+"242","Malik Willis",8,"Houston Texans",-10.6,-5,4.4,NA,10,6,NA,55,0,1,3,NA
+"243","Justin Fields",9,"Miami Dolphins",-0.6,11.9,95.4,106.7,28,17,-8.44,123,3,0,2,2.37
+"244","Trevor Lawrence",9,"Las Vegas Raiders",13.7,6.2,84.4,109,31,25,9.62,235,1,0,0,2.277
+"245","Baker Mayfield",9,"Cincinnati Bengals",11.8,1.7,83.2,NA,20,14,NA,155,2,0,0,NA
+"246","Joe Burrow",9,"Carolina Panthers",10.7,4.1,81.7,109.2,28,22,15.47,206,1,0,1,2.552
+"247","Tua Tagovailoa",9,"Chicago Bears",19,4.1,81.4,135.7,30,21,0.75,302,3,0,0,2.776
+"248","Zach Wilson",9,"Buffalo Bills",-1.8,2.2,76.4,101.1,25,18,5.48,154,1,0,2,2.314
+"249","Geno Smith",9,"Arizona Cardinals",-1.3,3.4,76.3,106.9,34,26,7.86,275,2,1,2,2.981
+"250","Jalen Hurts",9,"Houston Texans",7.1,2.6,75.8,128.9,27,21,8.51,243,2,0,4,2.934
+"251","Justin Herbert",9,"Atlanta Falcons",5,4.6,74.3,82,43,30,-3.23,245,1,1,0,2.902
+"252","Patrick Mahomes",9,"Tennessee Titans",1.7,6.1,71.4,80.9,68,43,-3.3,446,1,1,4,2.917
+"253","Lamar Jackson",9,"New Orleans Saints",4.5,2.1,70.9,87.9,22,12,-11.22,133,1,0,3,3.648
+"254","Josh Allen",9,"New York Jets",-12.7,0.8,64.3,46.8,34,18,-6.98,205,0,2,5,3.268
+"255","Kirk Cousins",9,"Washington Commanders",0.9,1.2,59.9,81.8,40,22,-2.82,265,2,1,2,2.925
+"256","Tom Brady",9,"Los Angeles Rams",-4.9,2.8,59.7,79.7,58,36,-6.98,280,1,0,1,2.258
+"257","Derek Carr",9,"Jacksonville Jaguars",7.9,1.3,59.5,99.2,36,21,-5.54,259,2,0,2,2.968
+"258","Davis Mills",9,"Philadelphia Eagles",-7.1,-1.4,47.4,72.9,22,13,-2.32,154,2,2,3,2.674
+"259","Kyler Murray",9,"Seattle Seahawks",-7.6,-0.8,42.6,101.5,35,25,2.13,175,2,0,5,2.841
+"260","Marcus Mariota",9,"Los Angeles Chargers",-0.4,-0.4,40.6,68.9,23,12,-7.67,129,0,0,2,3.067
+"261","Matthew Stafford",9,"Tampa Bay Buccaneers",NA,-2.6,32.1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"262","Taylor Heinicke",9,"Minnesota Vikings",NA,-1.3,30.1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"263","Mac Jones",9,"Indianapolis Colts",-8.3,-1.8,29.1,89.2,30,20,-3.96,147,1,0,4,2.582
+"264","Jared Goff",9,"Green Bay Packers",-1.5,-1.4,28.5,78.5,26,14,-14.85,137,2,1,0,2.694
+"265","Aaron Rodgers",9,"Detroit Lions",-12.6,-2.6,25,53.5,43,23,-2.59,291,1,3,1,2.918
+"266","Andy Dalton",9,"Baltimore Ravens",-4.6,-3,24.5,84,29,19,-0.71,210,1,1,4,2.643
+"267","Sam Ehlinger",9,"New England Patriots",-29.4,-7.3,13.4,NA,29,15,NA,103,0,1,9,NA
+"268","Malik Willis",9,"Kansas City Chiefs",-5.6,-4.4,10.6,NA,16,5,NA,80,0,0,3,NA
+"269","Tua Tagovailoa",10,"Cleveland Browns",18,6.8,93.7,135,32,25,12.37,285,3,0,0,2.514
+"270","Patrick Mahomes",10,"Jacksonville Jaguars",20,8.8,92.3,129.6,35,26,0.5,331,4,1,0,3.142
+"271","Tom Brady",10,"Seattle Seahawks",15.3,3.8,85.9,111,29,22,11.46,258,2,1,0,2.777
+"272","Ryan Tannehill",10,"Denver Broncos",4.8,3.5,83.3,94.1,36,19,-16.3,255,2,0,1,2.452
+"273","Daniel Jones",10,"Houston Texans",11.9,3.2,83.1,153.3,17,13,-4.78,197,2,0,3,2.854
+"274","Aaron Rodgers",10,"Dallas Cowboys",6.9,2.4,82.3,146.7,20,14,11.01,224,3,0,2,2.901
+"275","Jared Goff",10,"Chicago Bears",17.6,3.5,78.5,113.6,26,19,-3.68,236,1,0,2,2.75
+"276","Justin Fields",10,"Detroit Lions",-3.7,4.5,73.3,99.4,20,12,-0.91,167,2,1,3,4.065
+"277","Jalen Hurts",10,"Washington Commanders",6.5,3.1,73.2,94.2,26,17,-0.22,175,2,1,1,2.547
+"278","Colt McCoy",10,"Los Angeles Rams",2.8,2.9,70.5,NA,37,26,NA,238,1,0,2,NA
+"279","Josh Allen",10,"Minnesota Vikings",2.8,4.5,69.2,78.6,43,29,3.09,330,1,2,2,2.787
+"280","Trevor Lawrence",10,"Kansas City Chiefs",7,1.7,64,106.1,40,29,3.36,259,2,0,5,2.29
+"281","Taylor Heinicke",10,"Philadelphia Eagles",NA,-0.6,62.4,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"282","Matt Ryan",10,"Las Vegas Raiders",9.3,2.3,58.6,109.5,28,21,3.25,222,1,0,1,2.352
+"283","Jacoby Brissett",10,"Miami Dolphins",-6,2,57.4,89.2,35,22,0.95,212,1,0,3,2.884
+"284","Jimmy Garoppolo",10,"Los Angeles Chargers",10.1,1.2,57.3,94.3,28,19,-0.04,240,0,0,1,2.897
+"285","Marcus Mariota",10,"Carolina Panthers",-7.5,0.1,56.3,89,30,19,1.91,186,2,1,5,3.138
+"286","Geno Smith",10,"Tampa Bay Buccaneers",4.9,-0.2,54.3,115.1,33,23,3.98,275,2,0,3,2.746
+"287","Derek Carr",10,"Indianapolis Colts",2.9,0.8,53.2,99.5,38,24,-7.67,248,2,0,2,2.722
+"288","Kenny Pickett",10,"New Orleans Saints",-2.6,-0.1,45.5,79.7,30,18,2.41,199,0,0,6,3.09
+"289","Dak Prescott",10,"Green Bay Packers",-6.7,-0.9,44.7,78.6,46,27,-2.38,265,3,2,2,2.688
+"290","Justin Herbert",10,"San Francisco 49ers",-6.7,-2.8,37.1,73,35,21,-8.87,196,1,1,2,2.811
+"291","Kirk Cousins",10,"Buffalo Bills",4.9,-5.6,34.5,71.8,50,30,1.07,357,1,2,4,2.848
+"292","Davis Mills",10,"New York Giants",5.2,-2.9,33.4,85.3,37,22,-6.1,319,1,1,4,2.696
+"293","Andy Dalton",10,"Pittsburgh Steelers",-1.4,-2.8,23.9,62.9,27,17,-1.54,174,1,2,2,2.639
+"294","Russell Wilson",10,"Tennessee Titans",-6.3,-6.7,22.4,70.1,42,21,-12.83,286,1,1,6,3.304
+"295","John Wolford",10,"Arizona Cardinals",NA,-4.1,21.3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"296","PJ Walker",10,"Atlanta Falcons",NA,-1.3,19.9,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"297","Dak Prescott",11,"Minnesota Vikings",18.4,5.5,93.2,139.3,25,22,21.84,276,2,0,0,2.445
+"298","Andy Dalton",11,"Los Angeles Rams",10.7,4.2,84.7,149.6,25,21,13.85,260,3,0,3,2.162
+"299","Justin Herbert",11,"Kansas City Chiefs",6.7,5.2,81.7,113.2,30,23,13.36,280,2,1,5,2.855
+"300","Patrick Mahomes",11,"Los Angeles Chargers",18,3.8,78.6,120.8,34,20,-1.31,329,3,0,1,3.038
+"301","Ryan Tannehill",11,"Green Bay Packers",16.9,3,77.5,127.3,27,22,20.04,333,2,1,3,2.728
+"302","Jimmy Garoppolo",11,"Arizona Cardinals",16.2,2.6,77.3,131.9,29,20,-3.22,228,4,0,0,2.559
+"303","Matthew Stafford",11,"New Orleans Saints",NA,1.7,76.9,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"304","Derek Carr",11,"Denver Broncos",7.1,1.4,75.3,106.5,37,23,-3.32,307,2,0,1,3.025
+"305","Jalen Hurts",11,"Indianapolis Colts",-5.4,2.7,70,107.1,25,18,11.21,190,1,0,3,3.139
+"306","Jared Goff",11,"New York Giants",2.8,0.8,65.4,83,26,17,-5.25,165,0,0,0,2.779
+"307","Jacoby Brissett",11,"Buffalo Bills",17.8,0.1,63.3,116.3,41,28,11.16,324,3,0,1,3.001
+"308","Josh Allen",11,"Cleveland Browns",7,1,63,100.4,27,18,4.84,197,1,0,2,2.959
+"309","Kenny Pickett",11,"Cincinnati Bengals",-2.2,1.1,62.1,85.9,42,25,2.46,265,1,0,2,3.217
+"310","Matt Ryan",11,"Philadelphia Eagles",-3.3,-0.9,53.4,89.7,32,23,5.56,213,0,0,4,2.515
+"311","Aaron Rodgers",11,"Tennessee Titans",1.7,0.3,52.9,94.7,39,24,-5.05,227,2,0,1,3.03
+"312","Taylor Heinicke",11,"Houston Texans",NA,-0.2,51.3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"313","Joe Burrow",11,"Pittsburgh Steelers",12.7,0,50.6,104.1,39,24,-1.13,355,4,2,2,2.716
+"314","Daniel Jones",11,"Detroit Lions",3.5,0.7,39.1,74.1,44,27,-0.72,341,1,2,2,3.191
+"315","Colt McCoy",11,"San Francisco 49ers",-4.4,-2,39,NA,34,24,NA,218,0,1,3,NA
+"316","Marcus Mariota",11,"Chicago Bears",1.5,-0.2,36,100.2,20,13,-1.51,131,1,0,0,2.581
+"317","Justin Fields",11,"Atlanta Falcons",1.5,-1.3,33.6,84,21,14,-1.04,153,1,1,4,3.709
+"318","Russell Wilson",11,"Las Vegas Raiders",1.5,-0.2,29.7,99.8,31,24,11.13,247,0,0,3,2.854
+"319","Lamar Jackson",11,"Carolina Panthers",-5.5,-4,24.8,76.5,33,24,1.55,209,0,1,3,2.629
+"320","Zach Wilson",11,"New England Patriots",-12.4,-3.8,24.5,50.8,22,9,-16.83,77,0,0,4,3.147
+"321","Mac Jones",11,"New York Jets",-1.3,-3.8,20.4,104.6,27,23,10.44,246,0,0,6,2.751
+"322","Baker Mayfield",11,"Baltimore Ravens",-14.3,-5.2,20.3,NA,33,21,NA,196,0,2,4,NA
+"323","Kirk Cousins",11,"Dallas Cowboys",-18.3,-5,14.9,64.6,23,12,-5.27,105,0,0,7,3.046
+"324","Davis Mills",11,"Washington Commanders",-18.6,-5.6,11.7,46.1,33,19,-7.33,169,0,2,5,2.749
+"325","Mike White",12,"Chicago Bears",17.5,6,91.2,NA,28,22,NA,315,3,0,1,NA
+"326","Jalen Hurts",12,"Green Bay Packers",1.7,8.7,88.5,96.3,28,16,0.42,153,2,0,2,3.089
+"327","Kirk Cousins",12,"New England Patriots",11.6,4.9,85,116.1,37,30,12.06,299,3,1,1,2.865
+"328","Tua Tagovailoa",12,"Houston Texans",8.3,4.7,82.8,96.9,36,22,-1.61,299,1,0,4,2.636
+"329","Kyler Murray",12,"Los Angeles Chargers",7.7,5.1,81.8,89.9,29,18,1.48,191,2,1,1,3.054
+"330","Jared Goff",12,"Buffalo Bills",5.7,3,78.7,98.9,37,23,-2.06,240,2,0,2,2.711
+"331","Derek Carr",12,"Seattle Seahawks",13.6,3.4,78.4,98.7,36,25,1.24,295,3,2,1,2.96
+"332","Justin Herbert",12,"Arizona Cardinals",2.1,4.8,78.3,109.7,47,35,2.08,274,3,0,4,2.795
+"333","Jimmy Garoppolo",12,"New Orleans Saints",1.3,4.2,77.6,94.7,37,26,4.61,222,1,0,1,2.902
+"334","Trevor Lawrence",12,"Baltimore Ravens",13.8,3.7,74.9,129.8,37,29,5.29,321,3,0,4,2.297
+"335","Dak Prescott",12,"New York Giants",11.7,2.9,72.1,91.1,30,21,17.67,261,2,2,0,2.696
+"336","Sam Darnold",12,"Denver Broncos",5.2,0.9,72,103.8,19,11,3.73,164,1,0,0,3.151
+"337","Josh Allen",12,"Detroit Lions",-0.7,5,70.5,80.8,42,24,-2.05,253,2,1,3,2.853
+"338","Patrick Mahomes",12,"Los Angeles Rams",7.4,4.2,68.8,85.4,42,27,-2.89,320,1,1,0,2.876
+"339","Joe Burrow",12,"Tennessee Titans",5.7,1.1,65.8,91,37,22,-4.28,270,1,0,1,2.566
+"340","Kenny Pickett",12,"Indianapolis Colts",-1.1,1.3,62.7,87.5,28,20,3.46,174,0,0,3,2.798
+"341","Lamar Jackson",12,"Jacksonville Jaguars",7,2.5,62.4,87.2,32,16,-12.28,254,1,0,1,3.232
+"342","Daniel Jones",12,"Dallas Cowboys",-4.7,-0.2,61.7,88.8,35,21,0.55,228,1,0,3,2.979
+"343","Mac Jones",12,"Minnesota Vikings",5.8,1.1,56.8,119.8,39,28,7.65,382,2,0,3,2.679
+"344","Marcus Mariota",12,"Washington Commanders",-4.7,0.3,56.5,77.8,25,15,-13.56,174,1,1,1,2.831
+"345","Ryan Tannehill",12,"Cincinnati Bengals",6.7,0.2,56.3,91.7,34,22,-2.15,291,1,0,1,2.624
+"346","Taylor Heinicke",12,"Atlanta Falcons",NA,1.1,53.7,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"347","Andy Dalton",12,"San Francisco 49ers",0.3,-1,52.3,83.1,29,18,-5.67,204,0,0,1,2.601
+"348","Jacoby Brissett",12,"Tampa Bay Buccaneers",-5.8,-0.1,51.9,75.3,37,23,1.29,210,1,1,4,2.601
+"349","Tom Brady",12,"Cleveland Browns",-1.7,-0.7,50.9,97.6,43,29,-0.91,246,2,0,3,2.448
+"350","Geno Smith",12,"Las Vegas Raiders",8,1.2,41.2,106.6,37,27,5.37,328,2,1,3,2.826
+"351","Aaron Rodgers",12,"Philadelphia Eagles",0.2,-1.9,38.3,95.8,16,11,-4.24,140,2,2,3,2.511
+"352","Matt Ryan",12,"Pittsburgh Steelers",-5.1,-1.8,32,77.9,34,22,1.69,199,1,1,3,2.989
+"353","Trevor Siemian",12,"New York Jets",-7,-2.8,30.4,NA,25,14,NA,179,1,1,2,NA
+"354","Bryce Perkins",12,"Kansas City Chiefs",NA,-2.3,29.4,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"355","Russell Wilson",12,"Carolina Panthers",-14.2,-3.7,29.1,73.8,35,19,-5.94,142,1,0,3,2.941
+"356","Kyle Allen",12,"Miami Dolphins",-15.8,-10.5,4.2,NA,39,26,NA,215,1,2,5,NA
+"357","Justin Fields",13,"Green Bay Packers",4.4,6.3,90.5,75.7,25,20,11.74,254,0,2,0,3.098
+"358","Patrick Mahomes",13,"Cincinnati Bengals",7.5,4.2,90.5,98.2,27,16,3.39,223,1,0,2,3.213
+"359","Josh Allen",13,"New England Patriots",11.8,5.8,90.1,106,33,22,2.74,223,2,0,2,3.003
+"360","Jared Goff",13,"Jacksonville Jaguars",21.6,5.9,78.8,115.9,41,31,6.67,340,2,0,2,2.719
+"361","Kirk Cousins",13,"New York Jets",-1.9,2.9,75.8,82.2,35,21,-0.25,173,1,0,2,2.786
+"362","Jalen Hurts",13,"Tennessee Titans",18.4,4.2,74.7,130.3,39,29,8.01,380,3,0,2,2.764
+"363","Tyler Huntley",13,"Denver Broncos",-1.1,2.4,74.3,NA,32,27,NA,187,0,1,2,NA
+"364","Ryan Tannehill",13,"Philadelphia Eagles",-8.7,0.6,73,97,22,14,1.11,141,1,0,6,2.82
+"365","Joe Burrow",13,"Kansas City Chiefs",19.8,3.7,71.1,126.6,31,25,13.71,286,2,0,1,2.553
+"366","Andy Dalton",13,"Tampa Bay Buccaneers",3.7,1,68.5,107.6,28,20,4.35,229,1,0,2,2.902
+"367","Geno Smith",13,"Los Angeles Rams",10.6,2.8,65.1,116.1,39,28,5.99,367,3,1,4,3.069
+"368","Russell Wilson",13,"Baltimore Ravens",0.8,0.8,65,102.3,22,17,8.61,189,0,0,2,3.007
+"369","Matt Ryan",13,"Dallas Cowboys",-8.1,-0.8,57,59.9,37,21,-8.49,233,2,3,3,2.458
+"370","Brock Purdy",13,"Miami Dolphins",0.6,2.3,56.9,NA,37,25,NA,210,2,1,3,NA
+"371","Aaron Rodgers",13,"Chicago Bears",3.5,0.8,51.8,85.7,31,18,-6.14,182,1,0,0,3.359
+"372","Derek Carr",13,"Los Angeles Chargers",-2.4,1,50.8,89.6,30,16,-1.25,250,2,1,0,3.144
+"373","Kenny Pickett",13,"Atlanta Falcons",9.1,0.8,50.3,90.9,28,16,-4.89,197,1,0,0,3.289
+"374","Trevor Lawrence",13,"Detroit Lions",-2.3,0.2,43,82.6,31,17,-5.85,179,1,0,2,2.411
+"375","Mac Jones",13,"Buffalo Bills",0.8,-2.1,40.3,84.8,36,22,-4.49,195,1,0,1,3.291
+"376","Dak Prescott",13,"Indianapolis Colts",3.4,-0.4,40.1,100.7,30,20,-2.3,170,3,1,1,2.585
+"377","Tom Brady",13,"New Orleans Saints",0.4,-1.5,37.2,84,54,36,-3.18,281,2,1,1,2.542
+"378","Marcus Mariota",13,"Pittsburgh Steelers",-5,-1.4,32.2,72.7,24,13,-3.87,167,1,1,1,2.769
+"379","Daniel Jones",13,"Washington Commanders",-2.3,-2.1,31.8,104.3,31,25,14.45,200,1,0,4,2.47
+"380","Deshaun Watson",13,"Houston Texans",-4.6,-2.6,28.5,NA,22,12,NA,131,0,1,1,NA
+"381","Taylor Heinicke",13,"New York Giants",NA,-4.2,27.8,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"382","Mike White",13,"Minnesota Vikings",-8.1,-5.5,23,NA,57,31,NA,369,0,2,1,NA
+"383","John Wolford",13,"Seattle Seahawks",NA,-3,22.4,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"384","Tua Tagovailoa",13,"San Francisco 49ers",-11.3,-5.3,19.2,79.7,33,18,-14.5,295,2,2,3,2.602
+"385","Justin Herbert",13,"Las Vegas Raiders",-0.5,-5.8,15.2,88.5,47,28,-5.31,335,1,0,5,2.942
+"386","Kyle Allen",13,"Cleveland Browns",-18.2,-11,3,NA,39,20,NA,201,1,2,0,NA
+"387","Patrick Mahomes",15,"Houston Texans",15.4,8.3,92.3,117.1,41,36,11.21,336,2,0,2,2.875
+"388","Mitch Trubisky",15,"Carolina Panthers",NA,2.9,83.5,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"389","Jared Goff",15,"New York Jets",11.7,2.7,78.5,88.9,38,23,-9.87,252,1,0,0,2.991
+"390","Daniel Jones",15,"Washington Commanders",1.1,3,74,77.6,32,21,-0.24,160,0,0,0,2.7
+"391","Dak Prescott",15,"Jacksonville Jaguars",4,3.1,71.9,107.1,30,23,10.17,256,3,2,3,2.986
+"392","Brock Purdy",15,"Seattle Seahawks",6.7,0.8,62.3,NA,26,17,NA,217,2,0,1,NA
+"393","Trevor Lawrence",15,"Dallas Cowboys",10.7,0.9,59.8,109,42,27,3.39,318,4,1,1,2.761
+"394","Josh Allen",15,"Miami Dolphins",12.6,3.2,54.3,119.2,40,25,2.28,304,4,0,2,2.876
+"395","Joe Burrow",15,"Tampa Bay Buccaneers",2.8,-0.5,54.1,104.6,39,27,1.93,200,4,1,2,2.299
+"396","Tua Tagovailoa",15,"Buffalo Bills",-1,-1.1,53.9,104,30,17,-3.17,234,2,0,2,2.357
+"397","Jalen Hurts",15,"Chicago Bears",0.8,1.3,52.3,64.6,37,22,-0.16,315,0,2,1,2.645
+"398","Davis Mills",15,"Kansas City Chiefs",2.5,0.6,51,92.5,24,12,-8.38,121,2,0,0,2.858
+"399","Andy Dalton",15,"Atlanta Falcons",5.6,0.9,49.8,132.2,17,11,0,151,2,0,2,2.821
+"400","Geno Smith",15,"San Francisco 49ers",-8.2,-1.4,48.2,90.9,44,31,3.56,238,1,0,3,2.658
+"401","Derek Carr",15,"New England Patriots",-3.9,-0.7,47.2,86.6,38,20,-0.77,231,3,1,3,3.373
+"402","Sam Darnold",15,"Pittsburgh Steelers",9.7,0,46.8,108.1,23,14,7.21,225,1,0,4,3.086
+"403","Justin Herbert",15,"Tennessee Titans",-7.5,-0.7,42,68.8,42,28,2.26,313,0,2,3,2.765
+"404","Justin Fields",15,"Philadelphia Eagles",-3.7,-2.5,41.1,119.5,21,14,-1.22,152,2,0,6,3.05
+"405","Deshaun Watson",15,"Baltimore Ravens",-2.8,-0.8,40.4,NA,28,18,NA,161,1,0,3,NA
+"406","Tom Brady",15,"Cincinnati Bengals",5.5,-1.9,39.8,92.2,44,30,7.5,312,3,2,1,2.665
+"407","Aaron Rodgers",15,"Los Angeles Rams",1,0,37.7,92.2,30,22,-1.63,229,1,1,3,2.747
+"408","Zach Wilson",15,"Detroit Lions",0.7,0.4,37.4,89.8,35,18,0.33,317,2,1,4,3.059
+"409","Colt McCoy",15,"Denver Broncos",-8,-2.1,36.9,NA,21,13,NA,78,0,1,2,NA
+"410","Taylor Heinicke",15,"New York Giants",NA,-1.4,35.7,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"411","Kirk Cousins",15,"Indianapolis Colts",5.1,-2.7,32.9,99.3,54,34,-6.13,460,4,2,7,2.68
+"412","Desmond Ridder",15,"New Orleans Saints",-5.8,-2.5,31.9,NA,26,13,NA,97,0,0,4,NA
+"413","Matt Ryan",15,"Minnesota Vikings",-2.2,-2.2,31.4,83.1,33,19,-4.13,182,1,0,3,2.531
+"414","Ryan Tannehill",15,"Los Angeles Chargers",-6.4,-1.9,26.3,71.2,22,15,7.35,165,0,1,4,2.866
+"415","Brett Rypien",15,"Arizona Cardinals",-6,-3.5,19.1,NA,26,21,NA,197,1,1,7,NA
+"416","Baker Mayfield",15,"Green Bay Packers",NA,-2.9,16.2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"417","Tyler Huntley",15,"Cleveland Browns",-11.7,-7.1,12.6,NA,30,17,NA,138,0,1,3,NA
+"418","Mac Jones",15,"Las Vegas Raiders",-10.5,-5.1,12.2,52.1,31,13,-19.62,112,0,0,0,2.562
+"419","Baker Mayfield",16,"Denver Broncos",NA,4.1,88.1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"420","Dak Prescott",16,"Philadelphia Eagles",5.7,4.9,86.4,124.3,35,27,12.44,347,3,1,6,2.809
+"421","Sam Darnold",16,"Detroit Lions",14.3,5.5,85.4,121.4,22,15,0.74,250,1,0,0,2.379
+"422","Taylor Heinicke",16,"San Francisco 49ers",NA,1.9,84.1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"423","Joe Burrow",16,"New England Patriots",9.3,4,77.1,99.4,52,40,10.17,375,3,2,2,2.435
+"424","Chris Streveler",16,"Jacksonville Jaguars",1.7,2.5,71.7,NA,15,10,NA,90,0,0,0,NA
+"425","Gardner Minshew",16,"Dallas Cowboys",16.8,1.7,70.2,NA,40,24,NA,355,2,2,0,NA
+"426","Trevor Lawrence",16,"New York Jets",2,0.5,60.8,86.6,31,20,-6.19,229,0,0,1,2.459
+"427","Jared Goff",16,"Carolina Panthers",13.7,0.5,60.6,110.7,42,25,-6.53,355,3,0,2,2.781
+"428","Kenny Pickett",16,"Las Vegas Raiders",1.4,2.6,59.6,81.6,39,26,-3.65,244,1,1,0,3.27
+"429","Brock Purdy",16,"Washington Commanders",6.7,1.3,59.5,NA,22,15,NA,234,2,1,3,NA
+"430","Daniel Jones",16,"Minnesota Vikings",2.4,1.4,57.8,92.8,42,30,4.2,334,1,1,3,2.717
+"431","Mac Jones",16,"Cincinnati Bengals",2.4,0.4,56.1,105.6,33,21,5.31,240,2,0,4,2.984
+"432","Justin Fields",16,"Buffalo Bills",-8.5,-0.2,54.1,92.5,23,15,-5.25,119,1,0,2,2.956
+"433","Desmond Ridder",16,"Baltimore Ravens",3.9,-0.3,51.5,NA,33,22,NA,218,0,0,2,NA
+"434","Geno Smith",16,"Kansas City Chiefs",-18.2,-0.1,50.8,74.5,40,25,-2.21,215,1,1,2,2.866
+"435","Kirk Cousins",16,"New York Giants",-0.5,0.5,50.7,107.9,48,34,3.79,299,3,0,4,2.705
+"436","Josh Allen",16,"Chicago Bears",1.6,0.3,46,71.3,26,15,-6.76,172,2,2,1,3.38
+"437","Justin Herbert",16,"Indianapolis Colts",-3,-2.2,34.5,84.7,31,24,10.21,235,0,1,4,3.296
+"438","Tom Brady",16,"Arizona Cardinals",-1.9,-3.3,34.3,71.6,48,32,-10.16,281,1,2,0,2.16
+"439","Patrick Mahomes",16,"Seattle Seahawks",2.2,-1.4,33.8,106.8,28,16,-11.47,224,2,0,1,3.201
+"440","Malik Willis",16,"Houston Texans",-17.2,-1.5,32.3,NA,23,14,NA,99,0,2,4,NA
+"441","Aaron Rodgers",16,"Miami Dolphins",2.1,-1.7,30.8,78.6,38,24,-2.65,238,1,1,2,2.521
+"442","Davis Mills",16,"Tennessee Titans",-2.4,-3.6,23.2,76.2,28,17,4.35,178,1,1,1,2.986
+"443","Tua Tagovailoa",16,"Green Bay Packers",1,-1.3,23,80.8,25,16,2.03,310,1,3,2,2.848
+"444","Deshaun Watson",16,"New Orleans Saints",-15.5,-3.4,20.3,NA,31,15,NA,135,0,1,2,NA
+"445","Derek Carr",16,"Pittsburgh Steelers",-5.3,-4.1,20.2,42.2,30,16,-10.63,174,1,3,3,2.924
+"446","Tyler Huntley",16,"Atlanta Falcons",-0.7,-2,16.3,NA,17,9,NA,115,1,0,0,NA
+"447","Trace McSorley",16,"Tampa Bay Buccaneers",-15,-8.4,11.5,NA,45,24,NA,217,0,1,1,NA
+"448","Zach Wilson",16,"Jacksonville Jaguars",-8,-4.3,5.1,41.9,18,9,-10.15,92,0,1,3,3.326
+"449","Russell Wilson",16,"Los Angeles Rams",-8.9,-8.2,3.5,54.2,27,15,-7.3,214,1,3,6,3.195
+"450","Nick Foles",16,"Los Angeles Chargers",-24.7,-8.3,3.4,NA,29,17,NA,143,0,3,7,NA
+"451","Daniel Jones",17,"Indianapolis Colts",11.8,9,96.9,125.2,24,19,7.89,177,2,0,0,2.567
+"452","Justin Herbert",17,"Los Angeles Rams",10.2,4,81.1,119.9,28,21,7.62,212,2,0,0,2.616
+"453","Kenny Pickett",17,"Baltimore Ravens",4.2,2.9,79.6,86.7,27,15,-3.63,168,1,0,2,3.506
+"454","Dak Prescott",17,"Tennessee Titans",10.5,4.1,78.3,85.6,41,29,-1.39,282,2,2,1,2.522
+"455","Jarrett Stidham",17,"San Francisco 49ers",6.2,3.6,77.4,NA,34,23,NA,365,3,2,0,NA
+"456","Tom Brady",17,"Carolina Panthers",17.3,5.2,77.3,127.3,45,34,10.02,432,3,0,3,2.485
+"457","Tyler Huntley",17,"Pittsburgh Steelers",4.6,2.3,71.6,NA,21,14,NA,130,1,1,1,NA
+"458","Jared Goff",17,"Chicago Bears",5.8,3,69.1,133.5,29,21,-3.69,255,3,0,1,2.667
+"459","Brock Purdy",17,"Las Vegas Raiders",7.8,2.8,68.6,NA,35,22,NA,284,2,1,0,NA
+"460","Patrick Mahomes",17,"Denver Broncos",10.6,1.8,68,106.1,42,29,-2.14,328,3,1,0,2.901
+"461","Skylar Thompson",17,"New England Patriots",-1.6,-0.2,54.5,NA,21,12,NA,104,1,1,1,NA
+"462","Sam Darnold",17,"Tampa Bay Buccaneers",7.5,-1.1,53.6,108.1,37,23,4.21,341,3,1,2,3.265
+"463","Geno Smith",17,"New York Jets",-2.5,0.4,53,103.1,29,18,-0.81,183,2,0,4,2.668
+"464","Russell Wilson",17,"Kansas City Chiefs",-12.5,-0.5,48.3,81.2,38,26,-4.92,222,1,1,4,2.986
+"465","David Blough",17,"Atlanta Falcons",1.8,-0.2,42.3,NA,40,24,NA,222,1,0,2,NA
+"466","Aaron Rodgers",17,"Minnesota Vikings",2,0,42,95.7,24,15,0.71,159,1,0,1,2.704
+"467","Andy Dalton",17,"Philadelphia Eagles",-4.8,-2.2,39.3,86.6,22,18,11.61,205,0,1,6,2.6
+"468","Mac Jones",17,"Miami Dolphins",-3.2,0.3,39,98.5,33,20,-4.51,204,2,0,3,2.348
+"469","Desmond Ridder",17,"Arizona Cardinals",-0.2,-1.3,36.6,NA,26,19,NA,169,0,0,1,NA
+"470","Carson Wentz",17,"Cleveland Browns",NA,-1.9,36.5,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"471","Teddy Bridgewater",17,"New England Patriots",0.7,-1.5,35.4,NA,19,12,NA,161,1,1,1,NA
+"472","Joshua Dobbs",17,"Dallas Cowboys",-8.4,-2.7,32.3,NA,39,20,NA,232,1,1,2,NA
+"473","Deshaun Watson",17,"Washington Commanders",7.9,-1.7,32.1,NA,18,9,NA,169,3,0,5,NA
+"474","Baker Mayfield",17,"Los Angeles Chargers",NA,-1.9,27.8,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"475","Trevor Lawrence",17,"Houston Texans",1.5,-2.8,21.5,77,21,17,11.03,152,0,1,1,2.523
+"476","Justin Fields",17,"Detroit Lions",-27,-3.1,18.8,40.8,21,7,-19.01,75,1,1,7,3.383
+"477","Mike White",17,"Seattle Seahawks",-18.9,-8.4,12.2,NA,46,23,NA,240,0,2,4,NA
+"478","Gardner Minshew",17,"New Orleans Saints",-11.3,-6.3,11.3,NA,32,18,NA,274,1,1,6,NA
+"479","Kirk Cousins",17,"Green Bay Packers",-17.2,-5.9,10.3,49.2,31,18,-5.84,205,1,3,2,2.846
+"480","Davis Mills",17,"Jacksonville Jaguars",-22.5,-6.6,8.8,69,40,22,-5.29,202,0,0,1,3.147
+"481","Justin Herbert",18,"Denver Broncos",15.4,4,85.3,107.2,37,25,-2.01,273,2,0,1,2.75
+"482","Josh Allen",18,"New England Patriots",8.4,4.3,81.7,106.1,31,19,-0.56,254,3,1,2,3.349
+"483","Patrick Mahomes",18,"Las Vegas Raiders",1,4.2,81.4,105,26,18,3.9,202,1,0,2,2.809
+"484","Kirk Cousins",18,"Chicago Bears",16.6,2.6,80.9,130.2,20,17,13.16,225,1,0,0,3.019
+"485","Desmond Ridder",18,"Tampa Bay Buccaneers",6.6,2.5,76.1,NA,30,19,NA,224,2,0,2,NA
+"486","Davis Webb",18,"Philadelphia Eagles",-1.5,1.7,73.9,NA,40,23,NA,168,1,0,0,NA
+"487","Mac Jones",18,"Buffalo Bills",-0.8,0.8,67.7,75.3,40,26,-2.48,243,3,3,1,2.648
+"488","Joshua Dobbs",18,"Jacksonville Jaguars",-0.6,2.3,66.8,NA,29,20,NA,179,1,1,4,NA
+"489","Kenny Pickett",18,"Cleveland Browns",9.1,1.5,66.7,79,29,13,-11.15,195,1,0,1,3.013
+"490","Davis Mills",18,"Indianapolis Colts",6.2,1.8,65.7,87.4,38,22,1.24,298,3,2,1,3.296
+"491","Russell Wilson",18,"Los Angeles Chargers",4.1,1.3,56.6,118.6,24,13,0.59,283,3,1,2,3.239
+"492","Joe Flacco",18,"Miami Dolphins",0.1,1.3,54,NA,33,18,NA,149,0,0,0,NA
+"493","Brock Purdy",18,"Arizona Cardinals",6,0.2,51.5,NA,20,15,NA,178,3,0,4,NA
+"494","Andy Dalton",18,"Carolina Panthers",-5,0.1,48.3,93.9,25,15,-12.21,171,1,0,1,2.374
+"495","Nathan Peterman",18,"Minnesota Vikings",-3.7,0.3,46.8,NA,19,11,NA,114,1,0,1,NA
+"496","Nick Mullens",18,"Chicago Bears",5.6,0.2,45.5,NA,13,11,NA,116,0,1,0,NA
+"497","Sam Howell",18,"Dallas Cowboys",NA,-0.6,44.5,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"498","Trevor Lawrence",18,"Tennessee Titans",4.3,-0.3,43.5,92.2,32,20,1.25,212,1,0,1,3.036
+"499","Jared Goff",18,"Green Bay Packers",7.5,-0.6,40.8,85.9,34,23,-0.9,224,0,0,1,2.617
+"500","Deshaun Watson",18,"Pittsburgh Steelers",-3.8,-1.6,40.3,NA,29,19,NA,230,2,2,7,NA
+"501","Aaron Rodgers",18,"Detroit Lions",-1.3,0.5,38.8,83.1,27,17,1,205,1,1,2,3.042
+"502","Geno Smith",18,"Los Angeles Rams",-7.5,-0.1,37.2,65.7,31,19,-0.75,213,1,2,3,2.769
+"503","Jarrett Stidham",18,"Kansas City Chiefs",-9.5,-2.2,31.4,NA,36,22,NA,219,1,1,6,NA
+"504","Sam Ehlinger",18,"Houston Texans",-13,-2.7,29,NA,35,23,NA,209,2,2,2,NA
+"505","Jalen Hurts",18,"New York Giants",-4.6,-3.2,24.9,65.1,35,20,-2.89,229,0,1,3,2.532
+"506","Joe Burrow",18,"Baltimore Ravens",-8,-3.6,23.5,81,42,25,2.13,215,1,0,2,2.588
+"507","Skylar Thompson",18,"New York Jets",-7.1,-4.8,14.8,NA,31,20,NA,152,0,0,1,NA
+"508","Dak Prescott",18,"Washington Commanders",-13.2,-5.9,14.8,45.8,37,14,-17.68,128,1,1,1,2.925
+"509","Sam Darnold",18,"New Orleans Saints",-12.9,-4,11,2.8,15,5,-5.4,43,0,2,2,4.052
+"510","David Blough",18,"San Francisco 49ers",-6.6,-4.8,10.9,NA,18,14,NA,180,1,2,3,NA
+"511","Baker Mayfield",18,"Seattle Seahawks",NA,-6.3,10.1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"512","Anthony Brown",18,"Cincinnati Bengals",-15,-10.5,6.1,NA,44,19,NA,286,0,2,4,NA
