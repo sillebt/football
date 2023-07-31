@@ -128,7 +128,7 @@ avg_time_to_throw <- function(szn) {
                 remove_labels = "x",
                 ncol = 4)+
     labs(
-      title = glue("Average time to throw for each QB - {2022}szn} Regular season"),
+      title = glue("Average time to throw for each QB - {szn} Regular season"),
       subtitle = glue::glue("Current season highlighted - QB with most attempts per team. NFL 2022 season average ({round(tt_avg$avg,2)} sec) in blue."),
       caption = "@tom - Data: Next Gen Stats with nflreadr"
     )+

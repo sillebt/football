@@ -62,7 +62,7 @@ plot_weekly_qbepa <- function(player, szn) {
     scale_y_continuous(breaks = scales::pretty_breaks()) +
     xlab("Week") +
     ylab("Average QB EPA") +
-    labs(title = "Patrick Mahomes: Mean QB EPA per Week",
+    labs(title = "Justin Fields: Mean QB EPA per Week",
          subtitle = glue("{szn} NFL Season"),
          caption = "Mean EPA on Dropbacks")
 

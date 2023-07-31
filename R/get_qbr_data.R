@@ -60,6 +60,18 @@ get_weekly_qbr <- function(year) {
   return(espn_qbr)
 }
 
+get_weekly_qbr_all_years <- function(years) {
+
+  espn_qbr_all_years <- data.frame()  # Initialize an empty dataframe to store the combined data for all years
+
+  for (year in years) {
+    espn_qbr_year <- get_weekly_qbr(year)  # Get the data for this year
+    espn_qbr_all_years <- rbind(espn_qbr_all_years, espn_qbr_year)  # Combine the data
+  }
+
+  return(espn_qbr_all_years)
+
+}
 
 
 #' Plot QBR Data
